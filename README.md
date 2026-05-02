@@ -27,4 +27,35 @@ This project helps in organizing customer data, tracking services, and improving
 ---
 
 ## 📂 Project Structure
+Gharpayy-CRM/
+│
+├── backend/
+│ ├── models/
+│ ├── routes/
+│ ├── controllers/
+│ ├── server.js / app.js
+│
+├── frontend/
+│ ├── index.html
+│ ├── style.css
+│ ├── script.js
+│
+├── README.md
+
+---
+
+## ⚙️ How to Run This Project
+
+1. Clone the repository
+```bash
+git clone https://github.com/ket-chaudhari/Gharpayy-CRM.git
+Go to project folder
+cd Gharpayy-CRM/backend
+Install dependencies
+npm install
+Start the server
+npm start
+
+
+frontend/index.html
 
